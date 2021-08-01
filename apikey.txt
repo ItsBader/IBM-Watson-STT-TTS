@@ -1,0 +1,2 @@
+"apikey": "Re8bScHR326QR0L3e7_giP34rRwX9ZJtCZMXG37zMWnh"
+Region: eu-gb
